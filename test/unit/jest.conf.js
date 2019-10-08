@@ -23,5 +23,6 @@ module.exports = {
     '!src/router.js',
     '!src/store.js',
     '!**/node_modules/**',
+    '!**/.history/**',
   ],
 };
