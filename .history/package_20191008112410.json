@@ -9,7 +9,7 @@
     "unit": "jest --config test/unit/jest.conf.js --coverage"
   },
   "dependencies": {
-    "babel-core": "^7.0.0-0",
+    "babel-core": "^^7.0.0-0",
     "babel-jest": "^24.9.0",
     "babel-preset-env": "^1.7.0",
     "core-js": "^2.6.5",
